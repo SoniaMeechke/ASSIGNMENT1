@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+}
+.outer{
+    margin: 0px auto;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    height: 830px;
+    width: 700px;
+    text-align: left;
+    font-size: 16px;
+}
+img{
+    border-radius:50%;
+    width: 120px;
+    height:130px;
+    display: block;
+    margin-top: -20px;
+    margin-left: 250px;
+    margin-right:-20px;
+}
+.objective h2{
+    text-align: left;
+    margin-top: -120px;
+    padding: auto;
+}
+.contact h2{
+    text-align: justify;
+    font-size: medium;
+    float: right;
+    padding: auto;
+    margin-top: -120px;
+    margin-left: -180px;
+}
+.skills h2{
+    padding-left: 0px;
+    margin-top: 2px;
+    text-align: left;
+}
+div{
+    border-radius: 2px;
+}
+body{
+    border: 100px;
+}
+table
+    {
+        border: 1px dashed black;
+        }
+#heading
+{
+    font-weight:bold;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+h4{
+    float: right;
+    margin-left: -200px;
+    padding: auto;
+
+    text-align: justify;
+}
+
+
