@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    background-color: rgb(205, 200, 200);
 }
 .outer{
     margin: 0px auto;
@@ -25,12 +26,12 @@ img{
     padding: auto;
 }
 .contact h2{
+    margin-top: -120px;
+    margin-left: -180px;
     text-align: justify;
     font-size: medium;
     float: right;
     padding: auto;
-    margin-top: -120px;
-    margin-left: -180px;
 }
 .skills h2{
     padding-left: 0px;
@@ -45,7 +46,7 @@ body{
 }
 table
     {
-        border: 1px dashed black;
+        border: 1px dashed rgb(193, 11, 68);
         }
 #heading
 {
@@ -54,13 +55,12 @@ table
 td
 {
     padding: 2px;
-    border: 1px solid #E88741;
+    border: 1px solid #0f43d3;
 }
 h4{
     float: right;
     margin-left: -200px;
     padding: auto;
-
     text-align: justify;
 }
 
